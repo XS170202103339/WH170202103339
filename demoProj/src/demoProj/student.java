@@ -1,4 +1,4 @@
-package demoProj01;
+package demoProj;
 
 public class student {
 	public String name;
